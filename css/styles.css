@@ -1,35 +1,36 @@
 body {
-  background-image: url(../img/flower.jpg);
+  background-image: url(../img/confetti.jpg);
   background-size: 40%;
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'Lemonada', cursive;
   }
 .jumbotron {
-  background-image: url(../img/slice.jpg);
-  background-repeat: round;
   color: purple;
   text-align: center;
   opacity: .7;
 }
 #cubgoof {
   background-color: lightblue
+  background-image: url(../img/cake.jpg);
+  background-repeat: no-repeat;
   margin: auto;
   width: 50%;
   border: 3px solid white;
   padding: 10px;
   text-align: center;
-  background-image: url(../img/cake.jpg);
 }
-#goof {
+
+#goofy {
   display: none;
   cursor: pointer;
 }
 .well {
-  color: purple;
+  color: blue;
   text-align: center;
   border: 3px solid white;
-  background-color: pink;
+  background-color: #6699ff;
+  margin: 10%;
 
 }
 #grammy {
