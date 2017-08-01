@@ -12,16 +12,16 @@ body {
   text-align: center;
   opacity: .7;
 }
-#unislice {
-  background-color: pink;
+#cubgoof {
+  background-color: lightblue
   margin: auto;
   width: 50%;
   border: 3px solid white;
   padding: 10px;
   text-align: center;
-  background-image: url(../img/slice.jpg);
+  background-image: url(../img/cake.jpg);
 }
-#slice {
+#goof {
   display: none;
   cursor: pointer;
 }
@@ -32,15 +32,15 @@ body {
   background-color: pink;
 
 }
-#daddy {
-  display: none;
-}
-
-#brittany {
+#grammy {
   display: none;
 }
 
 #emeline {
+  display: none;
+}
+
+#daddy {
   display: none;
 }
 

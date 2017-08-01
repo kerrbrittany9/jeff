@@ -1,13 +1,13 @@
 
 $(document).ready(function() {
-  $("#unislice").hover(function(){
-    $("#unicorn").toggle();
-    $("#slice").toggle();
+  $("#cubgoof").hover(function(){
+    $("#cubs").toggle();
+    $("#goofy").toggle();
   });
 
   $("#question").click(function(){
     $("#question").hide();
-    $("#").fadeIn(1500);
+    $("#grammy").fadeIn(1500);
 
   });
   $("#grammy").click(function(){
